@@ -16,4 +16,4 @@ $ ruby sample.rb
 
 To run the rspecs use below command:
 
-$ rspec ldap_cli_spec.rb
+$ rspec ldap_cli_rspec.rb
