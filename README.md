@@ -21,5 +21,7 @@ To run the rspecs use below command:
 $ rspec ldap_cli_rspec.rb
 
 Following are the references used to develop the LDAP CLI program:
+
 https://www.rubydoc.info/gems/ruby-net-ldap/Net/LDAP
+
 https://www.tutorialspoint.com/ruby/ruby_ldap.htm
