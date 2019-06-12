@@ -6,7 +6,7 @@ We need to install net-ldap gem to execute this program. Also, we need to instal
 
 Setup OpenLDAP server and create node people by using the below reference:
 
-https://help.ubuntu.com/lts/serverguide/openldap-server.html.en#openldap-server-installation
+https://help.ubuntu.com/lts/serverguide/openldap-server.html.en
 
 Import data into LDAP using:
 
