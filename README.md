@@ -4,7 +4,9 @@ my_ldap_cli is used to read/write data from/to LDAP. We can write data from a CS
 
 We need to install net-ldap gem to execute this program. Also, we need to install rspec gem in order to run the specs.
 
-Setup OpenLDAP server and create node people.
+Setup OpenLDAP server and create node people by using the below reference:
+
+https://help.ubuntu.com/lts/serverguide/openldap-server.html.en#openldap-server-installation
 
 Import data into LDAP using:
 
@@ -17,3 +19,7 @@ $ ruby sample.rb
 To run the rspecs use below command:
 
 $ rspec ldap_cli_rspec.rb
+
+Following are the references used to develop the LDAP CLI program:
+https://www.rubydoc.info/gems/ruby-net-ldap/Net/LDAP
+https://www.tutorialspoint.com/ruby/ruby_ldap.htm
